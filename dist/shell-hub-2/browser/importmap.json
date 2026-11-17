@@ -1,0 +1,30 @@
+{
+  "imports": {
+    "@angular/common": "_angular_common.h-ZsJV4DKY.js",
+    "@angular/common/http": "_angular_common_http.IoaJ22Q-WO.js",
+    "@angular/core": "_angular_core.aV3pSIv_Or.js",
+    "@angular/core/primitives/di": "_angular_core_primitives_di.krnVTWBoqG.js",
+    "@angular/core/primitives/signals": "_angular_core_primitives_signals.Qj2Ca4nxpN.js",
+    "@angular/forms": "_angular_forms.l5fXrhwfWi.js",
+    "@angular/platform-browser": "_angular_platform_browser.yDcGUFP44R.js",
+    "@angular/platform-browser/animations/async": "_angular_platform_browser_animations_async.OP-I8_Ladz.js",
+    "@angular/router": "_angular_router.QL_VDI1RkC.js",
+    "primeng/api": "primeng_api.7gm-C8QRll.js",
+    "primeng/base": "primeng_base.Vtbt2ME3nN.js",
+    "primeng/config": "primeng_config.sAirH1Jg0_.js",
+    "primeng/usestyle": "primeng_usestyle.qUqrpDiECO.js",
+    "rxjs": "rxjs.qIwznNQkpN.js",
+    "rxjs/operators": "rxjs_operators.r40PxDuin1.js",
+    "tslib": "tslib.JHGCdvGbQ0.js",
+    "@nf-internal/browser-VEJMDXME": "browser-VEJMDXME.js",
+    "@nf-internal/chunk-NHDVMEST": "chunk-NHDVMEST.js",
+    "@nf-internal/chunk-ZSWNR2OG": "chunk-ZSWNR2OG.js",
+    "@nf-internal/chunk-NATPXMDT": "chunk-NATPXMDT.js",
+    "@nf-internal/chunk-KNUKVBCT": "chunk-KNUKVBCT.js",
+    "@nf-internal/chunk-TX7OSOVJ": "chunk-TX7OSOVJ.js",
+    "@nf-internal/chunk-G5YPXJ7P": "chunk-G5YPXJ7P.js",
+    "@nf-internal/chunk-SNILWNLH": "chunk-SNILWNLH.js",
+    "@nf-internal/chunk-REXVXS4C": "chunk-REXVXS4C.js",
+    "@nf-internal/chunk-4CLCTAJ7": "chunk-4CLCTAJ7.js"
+  }
+}
