@@ -1,0 +1,45 @@
+
+> shell-hub-2@0.0.0 start
+> ng serve --port 4200
+
+ INFO  [Federation SSE] Local reloader initialized with endpoint /@angular-architects/native-federation:build-notifications
+ INFO  Building federation artefacts
+ INFO  Preparing shared npm packages for the platform browser-shared
+ NOTE  This only needs to be done once, as results are cached
+ NOTE  Skip packages you don't want to share in your federation config
+> Building...
+√ Building...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        | 466.72 kB | 
+chunk-XDXRZC7I.js   | -             | 901 bytes | 
+main.js             | main          | 342 bytes | 
+polyfills.js        | polyfills     | 121 bytes | 
+
+                    | Initial total | 468.08 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-ULLF3ZVQ.js   | bootstrap     |  33.93 kB | 
+
+Application bundle generation complete. [1.557 seconds] - 2026-11-17T20:16:53.350Z
+
+Watch mode enabled. Watching for file changes...
+NOTE: Raw file sizes do not reflect development server per-request transformations.
+  ➜  Local:   http://localhost:4200/
+  ➜  press h + enter to show help
+> Changes detected. Rebuilding...
+√ Changes detected. Rebuilding...
+Initial chunk files | Names         |  Raw size
+styles.css          | styles        | 466.72 kB | 
+chunk-XDXRZC7I.js   | -             | 901 bytes | 
+main.js             | main          | 342 bytes | 
+polyfills.js        | polyfills     | 121 bytes | 
+
+                    | Initial total | 468.08 kB
+
+Lazy chunk files    | Names         |  Raw size
+chunk-ULLF3ZVQ.js   | bootstrap     |  33.93 kB | 
+
+Application bundle generation complete. [0.309 seconds] - 2026-11-17T20:59:15.797Z
+
+ INFO  Building federation artefacts
+ INFO  Done!

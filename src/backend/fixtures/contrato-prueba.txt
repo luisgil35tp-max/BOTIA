@@ -1,0 +1,4 @@
+Contrato: CT-2026-001
+Cliente: Empresa Prueba S.A.S.
+Valor: $ 1.250.000 COP
+Objeto: Servicio de validación funcional.
